@@ -1,5 +1,9 @@
 # README.txt
 
+## Team Name - NLPandas
+## Project Name - Truth or Silence
+---
+
 ## Project Description
 
 This project investigates methods for detecting hallucinated or unreliable answers produced by large language models (LLMs). We evaluate a confidence-based abstention strategy using token-level log probabilities from the **Mistral-7B-Instruct** model on the **TruthfulQA multiple-choice dataset**.
